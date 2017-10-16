@@ -1,0 +1,33 @@
+$base-font-size: 16px;
+$base-font-family: "proxima-nova","Helvetica Neue", Helvetica, Arial, sans-serif;
+$header-font-family: $base-font-family;
+
+// Breakpoints
+$max-width: 1366px;
+$gutter-width: 40px;
+
+// Breakpoints
+// @media all and (max-width: 1000px)
+// @media all and (min-width: 481px)
+// @media all and (min-width: 769px)
+// @media all and (min-width: 1001px)
+// @media all and (min-width: 1281px)
+
+$small-screen: 481px;
+$medium-screen: 769px;
+$large-screen: 1001px;
+$xl-screen: 1281px;
+
+$mobile-only: "all and (max-width: #{$large-screen - 1})";
+$medium-screen-down: "all and (max-width: #{$medium-screen - 1})";
+$large-screen-down: $mobile-only;
+$medium-screen-up: "all and (min-width: #{$medium-screen})";
+$large-screen-up: "all and (min-width: #{$large-screen})";
+$xl-screen-up: "all and (min-width: #{$xl-screen})";
+
+// Colors
+$blue: #071938;
+$light-blue: #7c8596;
+$red: #ec0928;
+$white: #FFF;
+$light-gray: #E8E8E8;

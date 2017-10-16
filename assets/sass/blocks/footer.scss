@@ -1,0 +1,26 @@
+.footer {
+  display: none !important;
+  background-color: $blue;
+  color: $white;
+  .footer-lower {
+    color: #999;
+  }
+  &-block {
+    font-size: $base-font-size;
+    &.newsletter-block { width: 75% !important; }
+    text-align: left;
+    .title {
+      color: white;
+    }
+    .newsletter {
+      .title { text-transform: none; }
+    }
+  }
+}
+.html-store-closed-page {
+  .footer {
+    display: block !important;
+    .footer-upper { display:none; }
+    .footer-links { display: none; }
+  }
+}

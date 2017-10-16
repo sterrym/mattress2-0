@@ -1,0 +1,335 @@
+home_page_main_slider
+content_before
+content_after
+main_column_before
+main_column_after
+left_side_column_before
+left_side_column_after_category_navigation
+left_side_column_after
+home_page_before_best_sellers
+home_page_before_categories
+home_page_before_news
+home_page_before_poll
+home_page_before_products
+home_page_top
+home_page_bottom
+categorydetails_top
+categorydetails_after_breadcrumb
+categorydetails_before_subcategories
+categorydetails_before_featured_products
+categorydetails_after_featured_products
+categorydetails_before_filters
+categorydetails_before_product_list
+categorydetails_bottom
+productdetails_top
+productdetails_bottom
+productdetails_before_pictures
+productdetails_after_pictures
+productdetails_overview_top
+productdetails_overview_bottom
+manufacturerdetails_top
+mega_menu_categories_before_dropdown_end
+mega_menu_categories_before_dropdown_end_1
+mega_menu_categories_before_dropdown_end_2
+mega_menu_categories_before_dropdown_end_3
+mega_menu_categories_before_dropdown_end_4
+mega_menu_categories_before_dropdown_end_5
+mega_menu_categories_before_dropdown_end_6
+mega_menu_categories_before_dropdown_end_7
+
+# Widget Zone(A-Z)
+account_navigation_after
+account_navigation_before
+admin_dashboard_bottom
+admin_dashboard_top
+admin_header_after
+admin_header_before
+admin_header_middle
+bloglist_page_after_posts
+bloglist_page_before_posts
+bloglist_page_inside_post
+blogpost_page_after_comments
+blogpost_page_before_body
+blogpost_page_before_comments
+blogpost_page_inside_comment
+body_end_html_tag_before
+body_end_html_tag_before
+body_start_html_tag_after
+body_start_html_tag_after
+categorydetails_after_breadcrumb
+categorydetails_after_featured_products
+categorydetails_before_featured_products
+categorydetails_before_filters
+categorydetails_before_product_list
+categorydetails_before_subcategories
+categorydetails_bottom
+categorydetails_top
+checkout_billing_address_bottom
+checkout_billing_address_middle
+checkout_billing_address_top
+checkout_completed_bottom
+checkout_completed_top
+checkout_confirm_bottom
+checkout_confirm_top
+checkout_payment_info_bottom
+checkout_payment_info_top
+checkout_payment_method_bottom
+checkout_payment_method_top
+checkout_progress_after
+checkout_progress_before
+checkout_shipping_address_bottom
+checkout_shipping_address_middle
+checkout_shipping_address_top
+checkout_shipping_method_bottom
+checkout_shipping_method_top
+contactus_bottom
+contactus_top
+content_after
+content_before
+footer
+head_html_tag
+head_html_tag
+header
+header_links_after
+header_links_before
+header_menu_after
+header_menu_before
+header_selectors
+home_page_bottom
+home_page_top
+left_side_column_after
+left_side_column_after
+left_side_column_after_category_navigation
+left_side_column_after_category_navigation
+left_side_column_before
+left_side_column_before
+main_column_after
+main_column_after
+main_column_after
+main_column_before
+main_column_before
+main_column_before
+manufacturerdetails_after_featured_products
+manufacturerdetails_before_featured_products
+manufacturerdetails_before_filters
+manufacturerdetails_before_product_list
+manufacturerdetails_bottom
+manufacturerdetails_top
+mob_header_menu_after
+mob_header_menu_before
+newsitem_page_after_comments
+newsitem_page_before_body
+newsitem_page_before_comments
+newsitem_page_inside_comment
+newslist_page_after_items
+newslist_page_before_items
+newslist_page_inside_item
+notifications
+op_checkout_billing_address_bottom
+op_checkout_billing_address_middle
+op_checkout_billing_address_top
+op_checkout_confirm_bottom
+op_checkout_confirm_top
+op_checkout_payment_info_bottom
+op_checkout_payment_info_top
+op_checkout_payment_method_bottom
+op_checkout_payment_method_top
+op_checkout_shipping_address_bottom
+op_checkout_shipping_address_middle
+op_checkout_shipping_address_top
+op_checkout_shipping_method_bottom
+op_checkout_shipping_method_top
+order_summary_cart_footer
+order_summary_content_after
+order_summary_content_before
+order_summary_content_deals
+orderdetails_page_afterproducts
+orderdetails_page_beforeproducts
+orderdetails_page_bottom
+orderdetails_page_overview
+orderdetails_page_top
+productbox_add_info
+productbreadcrumb_after
+productbreadcrumb_before
+productdetails_add_info
+productdetails_after_breadcrumb
+productdetails_after_breadcrumb
+productdetails_after_pictures
+productdetails_after_pictures
+productdetails_before_collateral
+productdetails_before_collateral
+productdetails_before_pictures
+productdetails_before_pictures
+productdetails_bottom
+productdetails_bottom
+productdetails_overview_bottom
+productdetails_overview_bottom
+productdetails_overview_top
+productdetails_overview_top
+productdetails_top
+productdetails_top
+productreviews_page_bottom
+productreviews_page_inside_review
+productreviews_page_top
+productsbytag_before_product_list
+productsbytag_bottom
+productsbytag_top
+productsearch_page_advanced
+productsearch_page_basic
+profile_page_info_userdetails
+profile_page_info_userstats
+right_side_column_after
+right_side_column_before
+searchbox
+searchbox_before_search_button
+vendordetails_bottom
+vendordetails_top
+
+
+# Location of View [ Line Number ]( Widget Zone )
+Presentation\Nop.Web\Views\Blog\BlogPost.cshtml [ 23 ]( blogpost_page_before_body )
+Presentation\Nop.Web\Views\Blog\BlogPost.cshtml [ 44 ]( blogpost_page_before_comments )
+Presentation\Nop.Web\Views\Blog\BlogPost.cshtml [ 117 ]( blogpost_page_inside_comment )
+Presentation\Nop.Web\Views\Blog\BlogPost.cshtml [ 123 ]( blogpost_page_after_comments )
+Presentation\Nop.Web\Views\Blog\List.cshtml [ 36 ]( bloglist_page_before_posts )
+Presentation\Nop.Web\Views\Blog\List.cshtml [ 73 ]( bloglist_page_inside_post )
+Presentation\Nop.Web\Views\Blog\List.cshtml [ 80 ]( bloglist_page_after_posts )
+Presentation\Nop.Web\Views\Catalog\CategoryTemplate.ProductsInGridOrLines.cshtml [ 46 ]( categorydetails_after_breadcrumb )
+Presentation\Nop.Web\Views\Catalog\CategoryTemplate.ProductsInGridOrLines.cshtml [ 53 ]( categorydetails_top )
+Presentation\Nop.Web\Views\Catalog\CategoryTemplate.ProductsInGridOrLines.cshtml [ 61 ]( categorydetails_before_subcategories )
+Presentation\Nop.Web\Views\Catalog\CategoryTemplate.ProductsInGridOrLines.cshtml [ 84 ]( categorydetails_before_featured_products )
+Presentation\Nop.Web\Views\Catalog\CategoryTemplate.ProductsInGridOrLines.cshtml [ 102 ]( categorydetails_after_featured_products )
+Presentation\Nop.Web\Views\Catalog\CategoryTemplate.ProductsInGridOrLines.cshtml [ 130 ]( categorydetails_before_filters )
+Presentation\Nop.Web\Views\Catalog\CategoryTemplate.ProductsInGridOrLines.cshtml [ 143 ]( categorydetails_before_product_list )
+Presentation\Nop.Web\Views\Catalog\CategoryTemplate.ProductsInGridOrLines.cshtml [ 175 ]( categorydetails_bottom )
+Presentation\Nop.Web\Views\Catalog\ManufacturerTemplate.ProductsInGridOrLines.cshtml [ 24 ]( manufacturerdetails_top )
+Presentation\Nop.Web\Views\Catalog\ManufacturerTemplate.ProductsInGridOrLines.cshtml [ 32 ]( manufacturerdetails_before_featured_products )
+Presentation\Nop.Web\Views\Catalog\ManufacturerTemplate.ProductsInGridOrLines.cshtml [ 50 ]( manufacturerdetails_after_featured_products )
+Presentation\Nop.Web\Views\Catalog\ManufacturerTemplate.ProductsInGridOrLines.cshtml [ 78 ]( manufacturerdetails_before_filters )
+Presentation\Nop.Web\Views\Catalog\ManufacturerTemplate.ProductsInGridOrLines.cshtml [ 84 ]( manufacturerdetails_before_product_list )
+Presentation\Nop.Web\Views\Catalog\ManufacturerTemplate.ProductsInGridOrLines.cshtml [ 116 ]( manufacturerdetails_bottom )
+Presentation\Nop.Web\Views\Catalog\ProductsByTag.cshtml [ 25 ]( productsbytag_top )
+Presentation\Nop.Web\Views\Catalog\ProductsByTag.cshtml [ 53 ]( productsbytag_before_product_list )
+Presentation\Nop.Web\Views\Catalog\ProductsByTag.cshtml [ 85 ]( productsbytag_bottom )
+Presentation\Nop.Web\Views\Catalog\Search.cshtml [ 42 ]( productsearch_page_basic )
+Presentation\Nop.Web\Views\Catalog\Search.cshtml [ 80 ]( productsearch_page_advanced )
+Presentation\Nop.Web\Views\Catalog\SearchBox.cshtml [ 9 ]( searchbox_before_search_button )
+Presentation\Nop.Web\Views\Catalog\SearchBox.cshtml [ 65 ]( searchbox )
+Presentation\Nop.Web\Views\Catalog\TopMenu.cshtml [ 43 ]( header_menu_before )
+Presentation\Nop.Web\Views\Catalog\TopMenu.cshtml [ 72 ]( header_menu_after )
+Presentation\Nop.Web\Views\Catalog\TopMenu.cshtml [ 106 ]( mob_header_menu_before )
+Presentation\Nop.Web\Views\Catalog\TopMenu.cshtml [ 136 ]( mob_header_menu_after )
+Presentation\Nop.Web\Views\Catalog\Vendor.cshtml [ 24 ]( vendordetails_top )
+Presentation\Nop.Web\Views\Catalog\Vendor.cshtml [ 90 ]( vendordetails_bottom )
+Presentation\Nop.Web\Views\Checkout\BillingAddress.cshtml [ 17 ]( checkout_billing_address_top )
+Presentation\Nop.Web\Views\Checkout\BillingAddress.cshtml [ 101 ]( checkout_billing_address_middle )
+Presentation\Nop.Web\Views\Checkout\BillingAddress.cshtml [ 125 ]( checkout_billing_address_bottom )
+Presentation\Nop.Web\Views\Checkout\CheckoutProgress.cshtml [ 5 ]( checkout_progress_before )
+Presentation\Nop.Web\Views\Checkout\CheckoutProgress.cshtml [ 18 ]( checkout_progress_after )
+Presentation\Nop.Web\Views\Checkout\Completed.cshtml [ 18 ]( checkout_completed_top )
+Presentation\Nop.Web\Views\Checkout\Completed.cshtml [ 35 ]( checkout_completed_bottom )
+Presentation\Nop.Web\Views\Checkout\Confirm.cshtml [ 15 ]( checkout_confirm_top )
+Presentation\Nop.Web\Views\Checkout\Confirm.cshtml [ 77 ]( checkout_confirm_bottom )
+Presentation\Nop.Web\Views\Checkout\OpcBillingAddress.cshtml [ 4 ]( op_checkout_billing_address_top )
+Presentation\Nop.Web\Views\Checkout\OpcBillingAddress.cshtml [ 44 ]( op_checkout_billing_address_middle )
+Presentation\Nop.Web\Views\Checkout\OpcBillingAddress.cshtml [ 58 ]( op_checkout_billing_address_bottom )
+Presentation\Nop.Web\Views\Checkout\OpcConfirmOrder.cshtml [ 4 ]( op_checkout_confirm_top )
+Presentation\Nop.Web\Views\Checkout\OpcConfirmOrder.cshtml [ 24 ]( op_checkout_confirm_bottom )
+Presentation\Nop.Web\Views\Checkout\OpcPaymentInfo.cshtml [ 4 ]( op_checkout_payment_info_top )
+Presentation\Nop.Web\Views\Checkout\OpcPaymentInfo.cshtml [ 13 ]( op_checkout_payment_info_bottom )
+Presentation\Nop.Web\Views\Checkout\OpcPaymentMethods.cshtml [ 4 ]( op_checkout_payment_method_top )
+Presentation\Nop.Web\Views\Checkout\OpcPaymentMethods.cshtml [ 50 ]( op_checkout_payment_method_bottom )
+Presentation\Nop.Web\Views\Checkout\OpcShippingAddress.cshtml [ 5 ]( op_checkout_shipping_address_top )
+Presentation\Nop.Web\Views\Checkout\OpcShippingAddress.cshtml [ 45 ]( op_checkout_shipping_address_middle )
+Presentation\Nop.Web\Views\Checkout\OpcShippingAddress.cshtml [ 59 ]( op_checkout_shipping_address_bottom )
+Presentation\Nop.Web\Views\Checkout\OpcShippingMethods.cshtml [ 4 ]( op_checkout_shipping_method_top )
+Presentation\Nop.Web\Views\Checkout\OpcShippingMethods.cshtml [ 39 ]( op_checkout_shipping_method_bottom )
+Presentation\Nop.Web\Views\Checkout\PaymentInfo.cshtml [ 15 ]( checkout_payment_info_top )
+Presentation\Nop.Web\Views\Checkout\PaymentInfo.cshtml [ 30 ]( checkout_payment_info_bottom )
+Presentation\Nop.Web\Views\Checkout\PaymentMethod.cshtml [ 15 ]( checkout_payment_method_top )
+Presentation\Nop.Web\Views\Checkout\PaymentMethod.cshtml [ 65 ]( checkout_payment_method_bottom )
+Presentation\Nop.Web\Views\Checkout\ShippingAddress.cshtml [ 18 ]( checkout_shipping_address_top )
+Presentation\Nop.Web\Views\Checkout\ShippingAddress.cshtml [ 102 ]( checkout_shipping_address_middle )
+Presentation\Nop.Web\Views\Checkout\ShippingAddress.cshtml [ 126 ]( checkout_shipping_address_bottom )
+Presentation\Nop.Web\Views\Checkout\ShippingMethod.cshtml [ 15 ]( checkout_shipping_method_top )
+Presentation\Nop.Web\Views\Checkout\ShippingMethod.cshtml [ 56 ]( checkout_shipping_method_bottom )
+Presentation\Nop.Web\Views\Common\ContactUs.cshtml [ 15 ]( contactus_top )
+Presentation\Nop.Web\Views\Common\ContactUs.cshtml [ 65 ]( contactus_bottom )
+Presentation\Nop.Web\Views\Common\Footer.cshtml [ 119 ]( footer )
+Presentation\Nop.Web\Views\Common\HeaderLinks.cshtml [ 5 ]( header_links_before )
+Presentation\Nop.Web\Views\Common\HeaderLinks.cshtml [ 47 ]( header_links_after )
+Presentation\Nop.Web\Views\Customer\MyAccountNavigation.cshtml [ 9 ]( account_navigation_before )
+Presentation\Nop.Web\Views\Customer\MyAccountNavigation.cshtml [ 80 ]( account_navigation_after )
+Presentation\Nop.Web\Views\Home\Index.cshtml [ 6 ]( home_page_top )
+Presentation\Nop.Web\Views\Home\Index.cshtml [ 13 ]( home_page_bottom )
+Presentation\Nop.Web\Views\News\List.cshtml [ 16 ]( newslist_page_before_items )
+Presentation\Nop.Web\Views\News\List.cshtml [ 32 ]( newslist_page_inside_item )
+Presentation\Nop.Web\Views\News\List.cshtml [ 39 ]( newslist_page_after_items )
+Presentation\Nop.Web\Views\News\NewsItem.cshtml [ 19 ]( newsitem_page_before_body )
+Presentation\Nop.Web\Views\News\NewsItem.cshtml [ 23 ]( newsitem_page_before_comments )
+Presentation\Nop.Web\Views\News\NewsItem.cshtml [ 104 ]( newsitem_page_inside_comment )
+Presentation\Nop.Web\Views\News\NewsItem.cshtml [ 110 ]( newsitem_page_after_comments )
+Presentation\Nop.Web\Views\Order\Details.cshtml [ 33 ]( orderdetails_page_top )
+Presentation\Nop.Web\Views\Order\Details.cshtml [ 45 ]( orderdetails_page_overview )
+Presentation\Nop.Web\Views\Order\Details.cshtml [ 258 ]( orderdetails_page_beforeproducts )
+Presentation\Nop.Web\Views\Order\Details.cshtml [ 362 ]( orderdetails_page_afterproducts )
+Presentation\Nop.Web\Views\Order\Details.cshtml [ 640 ]( orderdetails_page_bottom )
+Presentation\Nop.Web\Views\Product\_AddToCart.cshtml [ 68 ]( productdetails_add_info )
+Presentation\Nop.Web\Views\Product\_ProductBreadcrumb.cshtml [ 12 ]( productbreadcrumb_before )
+Presentation\Nop.Web\Views\Product\_ProductBreadcrumb.cshtml [ 35 ]( productbreadcrumb_after )
+Presentation\Nop.Web\Views\Product\ProductReviews.cshtml [ 15 ]( productreviews_page_top )
+Presentation\Nop.Web\Views\Product\ProductReviews.cshtml [ 112 ]( productreviews_page_inside_review )
+Presentation\Nop.Web\Views\Product\ProductReviews.cshtml [ 117 ]( productreviews_page_bottom )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Grouped.cshtml [ 50 ]( productdetails_after_breadcrumb )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Grouped.cshtml [ 53 ]( productdetails_top )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Grouped.cshtml [ 58 ]( productdetails_before_pictures )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Grouped.cshtml [ 61 ]( productdetails_after_pictures )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Grouped.cshtml [ 74 ]( productdetails_overview_top )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Grouped.cshtml [ 82 ]( productdetails_overview_bottom )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Grouped.cshtml [ 91 ]( productdetails_before_collateral )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Grouped.cshtml [ 162 ]( productdetails_bottom )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Simple.cshtml [ 50 ]( productdetails_after_breadcrumb )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Simple.cshtml [ 53 ]( productdetails_top )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Simple.cshtml [ 58 ]( productdetails_before_pictures )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Simple.cshtml [ 61 ]( productdetails_after_pictures )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Simple.cshtml [ 74 ]( productdetails_overview_top )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Simple.cshtml [ 110 ]( productdetails_overview_bottom )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Simple.cshtml [ 119 ]( productdetails_before_collateral )
+Presentation\Nop.Web\Views\Product\ProductTemplate.Simple.cshtml [ 129 ]( productdetails_bottom )
+Presentation\Nop.Web\Views\Profile\Info.cshtml [ 26 ]( profile_page_info_userdetails )
+Presentation\Nop.Web\Views\Profile\Info.cshtml [ 55 ]( profile_page_info_userstats )
+Presentation\Nop.Web\Views\Shared\_ColumnsOne.cshtml [ 5 ]( main_column_before )
+Presentation\Nop.Web\Views\Shared\_ColumnsOne.cshtml [ 7 ]( main_column_after )
+Presentation\Nop.Web\Views\Shared\_ColumnsThree.cshtml [ 38 ]( left_side_column_before )
+Presentation\Nop.Web\Views\Shared\_ColumnsThree.cshtml [ 40 ]( left_side_column_after_category_navigation )
+Presentation\Nop.Web\Views\Shared\_ColumnsThree.cshtml [ 45 ]( left_side_column_after )
+Presentation\Nop.Web\Views\Shared\_ColumnsThree.cshtml [ 55 ]( right_side_column_before )
+Presentation\Nop.Web\Views\Shared\_ColumnsThree.cshtml [ 59 ]( right_side_column_after )
+Presentation\Nop.Web\Views\Shared\_ColumnsThree.cshtml [ 63 ]( main_column_before )
+Presentation\Nop.Web\Views\Shared\_ColumnsThree.cshtml [ 65 ]( main_column_after )
+Presentation\Nop.Web\Views\Shared\_ColumnsTwo.cshtml [ 38 ]( left_side_column_before )
+Presentation\Nop.Web\Views\Shared\_ColumnsTwo.cshtml [ 40 ]( left_side_column_after_category_navigation )
+Presentation\Nop.Web\Views\Shared\_ColumnsTwo.cshtml [ 44 ]( left_side_column_after )
+Presentation\Nop.Web\Views\Shared\_ColumnsTwo.cshtml [ 48 ]( main_column_before )
+Presentation\Nop.Web\Views\Shared\_ColumnsTwo.cshtml [ 50 ]( main_column_after )
+Presentation\Nop.Web\Views\Shared\_Notifications.cshtml [ 48 ]( notifications )
+Presentation\Nop.Web\Views\Shared\_ProductBox.cshtml [ 72 ]( productbox_add_info )
+Presentation\Nop.Web\Views\Shared\_Root.cshtml [ 4 ]( body_start_html_tag_after )
+Presentation\Nop.Web\Views\Shared\_Root.cshtml [ 17 ]( content_before )
+Presentation\Nop.Web\Views\Shared\_Root.cshtml [ 26 ]( content_after )
+Presentation\Nop.Web\Views\Shared\_Root.cshtml [ 31 ]( body_end_html_tag_before )
+Presentation\Nop.Web\Views\Shared\_Root.Head.cshtml [ 35 ]( head_html_tag )
+Presentation\Nop.Web\Views\Shared\_RootPopup.cshtml [ 17 ]( head_html_tag )
+Presentation\Nop.Web\Views\Shared\_RootPopup.cshtml [ 20 ]( body_start_html_tag_after )
+Presentation\Nop.Web\Views\Shared\_RootPopup.cshtml [ 22 ]( body_end_html_tag_before )
+Presentation\Nop.Web\Views\Shared\Header.cshtml [ 15 ]( header )
+Presentation\Nop.Web\Views\Shared\Header.cshtml [ 38 ]( header_selectors )
+Presentation\Nop.Web\Views\ShoppingCart\OrderSummary.cshtml [ 9 ]( order_summary_content_before )
+Presentation\Nop.Web\Views\ShoppingCart\OrderSummary.cshtml [ 195 ]( order_summary_cart_footer )
+Presentation\Nop.Web\Views\ShoppingCart\OrderSummary.cshtml [ 213 ]( order_summary_content_deals )
+Presentation\Nop.Web\Views\ShoppingCart\OrderSummary.cshtml [ 276 ]( order_summary_content_after )
+Presentation\Nop.Web\Administration\Views\Home\Index.cshtml [ 17 ]( admin_dashboard_top )
+Presentation\Nop.Web\Administration\Views\Home\Index.cshtml [ 107 ]( admin_dashboard_bottom )
+Presentation\Nop.Web\Administration\Views\Shared\_AdminLayout.cshtml [ 88 ]( admin_header_before )
+Presentation\Nop.Web\Administration\Views\Shared\_AdminLayout.cshtml [ 92 ]( admin_header_middle )
+Presentation\Nop.Web\Administration\Views\Shared\_AdminLayout.cshtml [ 113 ]( admin_header_after )

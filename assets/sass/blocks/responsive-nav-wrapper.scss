@@ -1,0 +1,21 @@
+.responsive-nav-wrapper {
+  &-parent {}
+  .search-wrap { display:none; }
+  .wishlist-opener { display:none; }
+  .shopping-cart-link {
+    display:none;
+    background: none;
+    background: none;
+    position: relative;
+    &:after {
+      color: white;
+      content: "\F07A";
+      font-family: FontAwesome;
+      font-size: $base-font-size * 1.5;
+      position:absolute;
+      left: 8px;
+      top:8px;
+    }
+  }
+  .personal-button {}
+}

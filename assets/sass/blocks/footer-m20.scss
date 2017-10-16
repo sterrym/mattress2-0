@@ -1,0 +1,33 @@
+.footerm20 {
+  background: $blue;
+  color: #FFF;
+  padding: $gutter-width/2 $gutter-width;
+  a {
+    &:link
+    &:visited { color: #FFF; }
+    &:hover,
+    &:active { color: #DDD; }
+  }
+  &__logo {
+    max-width: 210px;
+    margin: auto;
+    img { max-width: 100%; height: auto; }
+  }
+  &__inner {
+    @extend .container;
+    padding-top: $gutter-width/2;
+  }
+  &__column {
+    float: left;
+    width: 15%;
+    &--newsletter { text-align: center; width: 55%; }
+  }
+  @media #{$medium-screen-down} {
+    &__column {
+      float: none;
+      width: auto;
+      padding: 6px 0;
+      &--newsletter { text-align: left; width: auto; }
+    }
+  }
+}

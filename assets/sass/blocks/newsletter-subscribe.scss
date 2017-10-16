@@ -1,0 +1,10 @@
+@media #{$large-screen-up} {
+  .newsletter-subscribe {}
+  .newsletter-email {
+    input[type="text"] { width: 300px;}
+    .newsletter-subscribe-text { margin-bottom: 12px; }
+  }
+  .newsletter-subscribe-button {}
+  .newsletter-validation {}
+  .newsletter-result {}
+}

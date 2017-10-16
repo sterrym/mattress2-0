@@ -1,0 +1,12 @@
+@mixin container {
+  max-width: $max-width;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  &--full { max-width: none; }
+  &__inner {}
+  &--narrow {
+    max-width: 900px;
+  }
+
+}

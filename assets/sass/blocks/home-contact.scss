@@ -1,0 +1,12 @@
+.home-contact {
+  @extend .container;
+  @extend .container--full;
+  &__image {
+    float: left;
+    width: 66.666%;
+  }
+  &__form {
+    float: left;
+    width: 33.333%
+  }
+}

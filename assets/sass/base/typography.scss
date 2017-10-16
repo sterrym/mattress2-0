@@ -1,0 +1,32 @@
+// Fonts and weights
+// Regular         "proxima-nova"  400 normal
+// Regular Italic  "proxima-nova"  400 italic
+// Medium          "proxima-nova"  500 normal
+// Medium Italic   "proxima-nova"  500 italic
+// Semibold        "proxima-nova"  600 normal
+// Semibold Italic "proxima-nova"  600 italic
+
+body {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: $header-font-family;
+  font-weight: 600;
+}
+
+h2,
+h3,
+ul {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+p {
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.topic-block-title h2 {
+  color: white;
+}

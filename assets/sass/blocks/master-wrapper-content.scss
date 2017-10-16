@@ -1,0 +1,10 @@
+.master-wrapper-content {
+  padding: 0;
+  width: auto !important;
+}
+.page {
+  .page-title { margin: 40px 0; }
+  &.store-closed-page {
+    .page-title { display: none; }
+  }
+}

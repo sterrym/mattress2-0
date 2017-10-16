@@ -1,0 +1,28 @@
+.header-menu {
+  @media #{$large-screen-up} {
+    & > ul > li > a,
+    & > ul > li > span {
+      color: white;
+    }
+    & > ul > li:not(:first-child) {
+      border-left: 1px solid white;
+    }
+    & > ul > li {
+      &:hover {
+        a { color: $light-gray; }
+        a:after { display:none !important; }
+      }
+    }
+  }
+
+  & > ul > li > a,
+  & > ul > li > span {
+    font-size: 16px;
+  }
+
+  & > ul > li {
+    > a {
+      padding: 15px $gutter-width/2;
+    }
+  }
+}

@@ -1,0 +1,7 @@
+@mixin antialias {
+  -webkit-font-smoothing: antialiased;
+}
+
+@mixin unantialias {
+  -webkit-font-smoothing: auto;
+}

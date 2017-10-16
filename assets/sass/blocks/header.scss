@@ -1,0 +1,130 @@
+.header-1 {
+  background-color: #071938;
+  color: #FFF;
+  padding: 16px $gutter-width 12px;
+
+  // layout
+  @media #{$large-screen-up} {
+    .header-upper,
+    .header-lower {
+      @include container;
+      display: block;
+      table-layout: auto;
+      width: auto;
+    }
+    // .header-upper
+    .header-upper {
+      // "global" menu
+      background-color: #071938;
+      color: #FFF;
+      padding: 0;
+      text-align: right;
+    }
+    .header-options-wrapper,
+    .header-actions-wrapper {
+      display: table-row;
+      position: relative;
+      width: auto;
+    }
+    .header-actions {
+      .ico-wishlist { display: none; }
+      .ico-cart {
+        display: none;
+        background: none;
+        position: relative;
+        &:after {
+          color: $red;
+          content: "\F07A";
+          font-family: FontAwesome;
+          font-size: $base-font-size * 1.875;
+          position:absolute;
+          top:0;
+        }
+      }
+    }
+    // .header-lower
+    .header-lower {
+      padding: 0;
+    }
+    .header-logo {
+      display: table-cell;
+      width: 35%;
+    }
+    #headerMenuParent {
+      display: table-cell;
+      width: 50%;
+    }
+    .header-actions {
+      display: table-cell;
+      width: 15%;
+    }
+    .header-options {
+      display: block;
+      float: right;
+      width: auto;
+      .header-links li {
+        display: inline-block;
+        margin: 0 4px;
+      }
+      .ico-account,
+      .ico-logout,
+      .ico-login,
+      .ico-register {
+        &:after {
+          color: white;
+          font-size: $base-font-size;
+        }
+      }
+
+    }
+  }
+
+  .header-logo {
+    a { background-color: transparent; }
+  }
+  .header-options {
+    .header-links li {
+      &, a {
+        display: inline-block;
+        height: 32px;
+        width: 32px;
+      }
+    }
+    .ico-account,
+    .ico-logout,
+    .ico-login,
+    .ico-register {
+      @extend .hide-text;
+      position: relative;
+      &:after {
+        color: $blue;
+        content: "\25AE";
+        font-family: FontAwesome;
+        font-size: $base-font-size * 1.25;
+        left:-24px;
+        position:absolute;
+        top:0;
+      }
+    }
+    .ico-account:after { content: "\f2be"; }
+    .ico-logout:after { content: "\f08b"; }
+    .ico-login:after { content: "\f090"; }
+    .ico-register:after { content: "\f234"; }
+  }
+  // don't show the zip code store locator in the header
+  .zip-code-widget {
+    display: none;
+  }
+}
+
+.html-store-closed-page {
+  .header-1 {
+    .search-box { display:none; }
+    // .header-lower
+    .header-menu { display: none; }
+    .header-actions { display: none; }
+  }
+  .header-selectors-wrapper {
+    display: none;
+  }
+}

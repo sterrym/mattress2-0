@@ -1,0 +1,16 @@
+.brand-footer {
+  background: rgba(220, 217, 218, 0.54);
+  margin-top: $gutter-width/2;
+  &__inner {
+    @extend .container;
+    max-width: 860px;
+  }
+  &__icon {
+    img { max-width: 100%; height: auto; }
+    float: left;
+    padding: $gutter-width;
+    &--financing { width: 170px; }
+    &--guarantee { width: 500px; }
+    &--delivery { width: 179px; }
+  }
+}

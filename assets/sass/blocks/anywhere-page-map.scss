@@ -1,0 +1,58 @@
+.html-home-page .anywhere-page-map {
+  // background: $blue;
+  background-color: $light-blue;
+  margin: 0;
+  padding: 0;
+  .map-title { background-color: $blue; color: white; padding: $gutter-width 0; margin: 0; }
+  .getUserGeoLocation, .align-map-button {
+    color: white;
+  }
+
+  @include clearfix;
+  .map-title {
+    @include clearfix;
+    width: 100%;
+  }
+  .map-body {
+    float: left;
+    width: 66.666%;
+    .map-wrapper {
+      border-top: 1px solid $light-blue;
+      margin: 0;
+    }
+    .map-controls {
+      display:none;
+    }
+  }
+  .shops-list {
+    border-top: 1px solid $light-blue;
+    background-color: $light-blue;
+    color: white;
+    display: block !important;
+    float: left;
+    margin: 0;
+    padding-left: $gutter-width/2;
+    width: 33.333%;
+    .shops-item {
+      box-shadow: unset;
+      &, &:only-child {
+        margin: $gutter-width/2 0;
+      }
+    }
+    .show-directions {
+      color: $blue;
+    }
+    .picture-wrap { display: none; }
+    .info-wrap { padding: 0 0 $gutter-width/2 0; width: 100%; }
+    .read-more {
+      background: $blue;
+    }
+  }
+  @media #{$medium-screen-down} {
+    .shops-list { display: none !important; }
+    .map-body {
+      float: none;
+      width: 100%;
+    }
+  }
+}

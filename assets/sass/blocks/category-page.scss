@@ -1,0 +1,12 @@
+.category-page-body {
+  .page-title {
+    display:none;
+  }
+  .master-wrapper-content {
+    padding-top: 0;
+
+  }
+  .master-column-wrapper {
+    @include container;
+  }
+}

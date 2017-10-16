@@ -1,0 +1,4 @@
+.container {
+  @include clearfix;
+  @include container;
+}
