@@ -1,0 +1,22 @@
+.product-grid {
+  .item-box .productQuantityTextBox,
+  .item-box .productQuantityDropdown {
+    height: 48px;
+  }
+}
+
+@media #{$large-screen-up} {
+  .items-per-row-four {
+    .product-grid .item-box {
+      .ajax-cart-button-wrapper {
+        width: 75%;
+        input[type="text"] {
+          width: 25%;
+        }
+        input[type="button"] {
+          width: 75%;
+        }
+      }
+    }
+  }
+}

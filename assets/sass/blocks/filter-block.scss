@@ -1,0 +1,12 @@
+.filter-block {
+  .title { background: $medium-gray !important; color: $blue; }
+  a.toggleControl { color: $blue; }
+  .checkbox-list li label { color: $red; }
+}
+
+.block {
+  .title { background: $medium-gray; color: $blue; }
+  .list a {
+    color: $red;
+  }
+}

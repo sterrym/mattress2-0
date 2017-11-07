@@ -1,0 +1,30 @@
+.breadcrumb {
+  li {
+    span.delimiter {
+      background-image: url(/content/images/uploaded/list-marker.png);
+    }
+    & > * {
+      color: $blue;
+      font-size: 14px;
+      height: auto;
+    }
+  }
+  @media #{$mobile-only} {}
+  @media #{$medium-screen-down} {}
+  @media #{$small-screen-up} {
+    li > * {
+      border: 0;
+      color: $blue;
+      margin: 0;
+      padding: $gutter-width/2 $gutter-width/4;
+    }
+  }
+  @media #{$medium-screen-up} {
+    background: $medium-gray;
+    ul { border: 0; }
+  }
+  @media #{$large-screen-up} {
+    margin-bottom: $gutter-width;
+  }
+  @media #{$xl-screen-up} {}
+}

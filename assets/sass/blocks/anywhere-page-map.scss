@@ -16,6 +16,7 @@
   .map-body {
     float: left;
     width: 66.666%;
+    height: 35vh;
     .map-wrapper {
       border-top: 1px solid $light-blue;
       margin: 0;
@@ -33,6 +34,8 @@
     margin: 0;
     padding-left: $gutter-width/2;
     width: 33.333%;
+    height: 35vh;
+    overflow: auto;
     .shops-item {
       box-shadow: unset;
       &, &:only-child {

@@ -1,7 +1,23 @@
 .header-1 {
   background-color: #071938;
   color: #FFF;
-  padding: 16px $gutter-width 12px;
+  // padding: 16px $gutter-width 12px;
+  .header-top {
+    background: $light-gray;
+    color: $blue;
+    &__inner {
+      @include container;
+      font-size: $base-font-size * .8125;
+      padding: 0 $gutter-width/2;
+      text-align: right;
+    }
+    a {
+      color: $dark-gray;
+      display: inline-block;
+      padding: 8px 16px;
+      border-right: 1px solid $medium-gray;
+    }
+  }
 
   // layout
   @media #{$large-screen-up} {
