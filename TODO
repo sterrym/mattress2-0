@@ -10,7 +10,23 @@ Finalize Mattress 2.0
 x Product List
 x Remove non-selling items from Storis
 x Load product images
-- Finalize Product/Category/Cart CSS
-- Finalize Authorize.net
-- Finalize Shipping
-- Finalize Taxes
+x Finalize Product/Category/Cart CSS
+x Fix "Add to Cart" alignment
+x Terms of service
+x Finalize Authorize.net
+x Finalize Shipping
+x Finalize Taxes
+x Category Images
+
+Storis
+x eStoris Control Settings
+  x Miscellaneous Payment Settings
+  Web Miscellaneous Payment Type
+    - WEB: GL Account?
+    - UNDER: GL Account?
+  x Warehouse Product Availability
+
+eStoris
+x MFing IMAGES!!!
+x Shipping Rules
+x Tax Rules
