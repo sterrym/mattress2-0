@@ -4,7 +4,7 @@
 |--------------------------------------------------------------------------
 */
 
-var local_address = "mattress2-0.dev"
+var local_address = "mattress2-0.local"
 var public_assets_path = 'public/';
 var sass_path = 'assets/sass/';
 var templates_path = 'public/';
