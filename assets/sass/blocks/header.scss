@@ -43,19 +43,24 @@
       width: auto;
     }
     .header-actions {
-      .ico-wishlist { display: none; }
+      .ico-wishlist,
       .ico-cart {
-        display: none;
+        // display: none;
         background: none;
         position: relative;
         &:after {
-          color: $red;
-          content: "\F07A";
+          color: white;
           font-family: FontAwesome;
           font-size: $base-font-size * 1.875;
           position:absolute;
           top:0;
         }
+      }
+      .ico-wishlist {
+        &:after { content: "\F004"; }
+      }
+      .ico-cart {
+        &:after { content: "\F07A"; }
       }
     }
     // .header-lower
@@ -116,7 +121,6 @@
       position: relative;
       &:after {
         color: $blue;
-        content: "\25AE";
         font-family: FontAwesome;
         font-size: $base-font-size * 1.25;
         left:-24px;

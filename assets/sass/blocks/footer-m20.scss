@@ -3,7 +3,7 @@
   color: #FFF;
   padding: $gutter-width/2 $gutter-width;
   a {
-    &:link
+    &:link,
     &:visited { color: #FFF; }
     &:hover,
     &:active { color: #DDD; }
@@ -19,8 +19,8 @@
   }
   &__column {
     float: left;
-    width: 15%;
-    &--newsletter { text-align: center; width: 55%; }
+    width: 12%;
+    &--newsletter { text-align: center; width: 52%; }
   }
   @media #{$medium-screen-down} {
     &__column {

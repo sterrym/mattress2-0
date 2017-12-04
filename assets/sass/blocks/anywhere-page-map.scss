@@ -34,11 +34,11 @@
     margin: 0;
     padding-left: $gutter-width/2;
     width: 33.333%;
-    height: 35vh;
+    height: 38vh;
     overflow: auto;
     .shops-item {
       box-shadow: unset;
-      &, &:only-child {
+      &:only-child {
         margin: $gutter-width/2 0;
       }
     }
@@ -49,6 +49,10 @@
     .info-wrap { padding: 0 0 $gutter-width/2 0; width: 100%; }
     .read-more {
       background: $blue;
+      width: 100%;
+      min-width: auto;
+      padding-left: 20px;
+      padding-right: 20px;
     }
   }
   @media #{$medium-screen-down} {

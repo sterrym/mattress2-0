@@ -3,4 +3,10 @@
   .topic-block { display: none; }
   .master-wrapper-content { margin-top: 0; }
   a { @include link($light-gray); }
+  .page-body {
+    padding: 0;
+    &__inner {
+      padding: 0 $gutter-width/2;
+    }
+  }
 }

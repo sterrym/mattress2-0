@@ -1,8 +1,9 @@
 .page-body {
+  padding: 0 $gutter-width/2;
   @include container;
   &__inner {
     @extend .container;
-    padding: 0 $gutter-width/2;
+    // padding: 0 $gutter-width/2;
   }
   ul.fancy {
     list-style-type: none;

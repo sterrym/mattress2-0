@@ -1,6 +1,10 @@
 .master-wrapper-content {
   padding: 0;
   width: auto !important;
+  &.one-column,
+  &.two-columns {
+    padding: 0;
+  }
 }
 .page {
   .page-title { margin: 40px 0; }

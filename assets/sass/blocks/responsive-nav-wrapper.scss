@@ -1,10 +1,9 @@
 .responsive-nav-wrapper {
   &-parent {}
-  .search-wrap { display:none; }
-  .wishlist-opener { display:none; }
+  // .search-wrap { display:none; }
+  // .wishlist-opener { display:none; }
   .shopping-cart-link {
-    display:none;
-    background: none;
+    // display:none;
     background: none;
     position: relative;
     &:after {
