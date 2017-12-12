@@ -1,0 +1,6 @@
+.master-column-wrapper {
+  @extend .container;
+  .home-page-body & {
+    @extend .container--full;
+  }
+}
